@@ -1,0 +1,7 @@
+si 1
+speed 2000
+r
+h
+loadbin LED1.bin,0x08000000
+r
+exit
